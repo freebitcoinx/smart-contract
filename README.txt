@@ -1,1 +1,1 @@
-This is the smart contract of [Freebitcoinx.com](https://freebitcoinx.com) FBTC Native Token
+This is the smart contract of https://freebitcoinx.com FBTC Native Token
